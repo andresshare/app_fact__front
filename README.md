@@ -1,7 +1,7 @@
 # Fact__template
 App_TEMPLATE_DEMO_FRONT
 
-Creada con Django 2.1 y pyhon 3.5, tenmplate admin
+Creada con Django 2.1 y pyhon 3.5, template admin
 
 
 ![N|Solid](https://i.ibb.co/sj8ybb3/portada-factura.jpg)
